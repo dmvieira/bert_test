@@ -1,0 +1,4 @@
+tmp*
+model
+.ipynb_checkpoints/
+.vscode
